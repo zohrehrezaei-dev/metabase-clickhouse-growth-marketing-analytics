@@ -28,6 +28,12 @@ Purchases = 15
 
 
 # KPIs
-## Conversion Rate (CR)
-Formula: purchases/sessions
-Insight: Measures the efficiency of the website in converting visitors into buyers.
+## click-through rate (CTR) 
+Is the rate at which someone clicks on an email campaign, ad, social media post, etc., and lands on your website.
+
+CTR = (Clicks / Impressions) x 100
+
+Insight: Is the advertising channel working?
+
+
+Reference: https://www.shopify.com/blog/basic-ecommerce-metrics#8
