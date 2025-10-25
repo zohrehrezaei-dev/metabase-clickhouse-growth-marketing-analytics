@@ -2,7 +2,8 @@ In this project, I want to explore some E-commerce KPIs (each with a short defin
 
 First of all, we should know the steps of **conversion funnel**:
 
-##conversion funnel##
+##conversion funnel
+
 **Impressions ---> Clicks ---> Sessions ---> Add to card ---> Purchase**
 
 **Impressions:** This means how many people have seen your ad or product.
