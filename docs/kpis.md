@@ -11,9 +11,18 @@ First of all, we should know the steps of **conversion funnel**:
 **Clicks:** How many people clicked on the ad, post, banner, etc.?
             For example, out of 10,000 people who saw the ad, 500 clicked on the link to the site.
             That is: Clicks = 500
-**Sessions:**
-**Add to card:**
-**Purchase:**
+            
+**Sessions:** How many people actually visited your site and took an action (e.g. viewed a few products).
+Some clicks may not open or be dropped.
+Let's say out of those 500 clicks, 450 people actually visited your site. Sessions = 450
+
+**Add to card:** Of those who entered, how many people added something to their card.
+For example, 60 people.
+Add to Cart = 60
+
+**Purchase:** And finally, how many people actually made the payment?
+Suppose only 15 people made a purchase.
+Purchases = 15
 
 
 
