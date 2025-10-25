@@ -57,9 +57,6 @@ It tells you the average amount customers are spending at one time on your onlin
 ## Customer lifetime Value (CLV)
 It is the total revenue your business could expect from a single customer throughout their lifetime (or at least the lifetime of their relationship with your business).
 
-
-CLV = Average Value of a Purchase x # of Times the Customer Will Buy Each Year x Average Length of the Customer Relationship (in Years)
-
 **CLV = (Average Value of a Purchase x Number of Times the Customer Will Buy Each Year x Average Length of the Customer Relationship (in Years))**
 
 **Insight:** Knowing how much a customer is worth to your business helps you determine how much you can comfortably spend on customer acquisition and still make a profit.
@@ -90,7 +87,9 @@ Profitability signal: The LTV:CAC ratio compares the lifetime value of a custome
 It is a marketing technique that groups customers based on their Recency, Frequency, and Monetary value to understand their purchasing behavior. 
 
 **Recency:** Measures how recently a customer has made a purchase.
+
 **Frequency:** Measures how often a customer makes purchases.
+
 **Monetary:** Measures how much a customer has spent in total. 
 
 **Insight:** Businesses use this to identify high-value customers, like "Champions," and those at risk of churning, such as "At Risk Customers". This allows for targeted marketing campaigns to improve engagement, loyalty, and return on investment.  
