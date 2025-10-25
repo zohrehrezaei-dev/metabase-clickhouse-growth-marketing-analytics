@@ -1,7 +1,8 @@
 In this project, I want to explore some E-commerce KPIs (each with a short definition, formula, and why it matters). If you are new in this, KPIs are some metrics that tell us our **online business story** in the short-term and long-term.
 
-First of all, we should know the steps of **conversion funnel**: 
+First of all, we should know the steps of **conversion funnel**:
 
+##conversion funnel##
 **Impressions ---> Clicks ---> Sessions ---> Add to card ---> Purchase**
 
 **Impressions:** This means how many people have seen your ad or product.
