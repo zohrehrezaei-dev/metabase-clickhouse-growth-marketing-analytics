@@ -29,11 +29,18 @@ Purchases = 15
 
 # KPIs
 ## click-through rate (CTR) 
-Is the rate at which someone clicks on an email campaign, ad, social media post, etc., and lands on your website.
+It is the rate at which someone clicks on an email campaign, ad, social media post, etc., and lands on your website.
 
-CTR = (Clicks / Impressions) x 100
+**CTR = (Clicks / Impressions) x 100**
 
-Insight: Is the advertising channel working?
+**Insight:** Is the advertising channel working?
+
+## conversion rate (CVR)
+It is the number of people who purchased out of the total number of people who accessed your website.
+
+**CVR = (Purchases / Sessions) x 100**
+
+**Insight:** Is your site engaging users? If CVR is declining, where in the conversion funnel is the problem?
 
 
 Reference: https://www.shopify.com/blog/basic-ecommerce-metrics#8
