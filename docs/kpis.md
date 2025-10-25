@@ -28,14 +28,14 @@ Purchases = 15
 
 
 # KPIs
-## click-through rate (CTR) 
+## Click-Through Rate (CTR) 
 It is the rate at which someone clicks on an email campaign, ad, social media post, etc., and lands on your website.
 
 **CTR = (Clicks / Impressions) x 100**
 
 **Insight:** Is the advertising channel working?
 
-## conversion rate (CVR)
+## Conversion Rate (CVR)
 It is the number of people who purchased out of the total number of people who accessed your website.
 
 **CVR = (Purchases / Sessions) x 100**
@@ -47,14 +47,14 @@ How much did you pay for each click on the ad?
 
 **CPC = (total advertising budget / Clicks)**
 
-## Average order value (AOV)
+## Average Order Value (AOV)
 It tells you the average amount customers are spending at one time on your online store.
 
 **AOV = (Total Revenue / Total Number of Orders)**
 
 **Insight:** is a great metric to track because it can help you gauge revenue and make realistic goals for new customers.
 
-## Customer lifetime value (CLV)
+## Customer lifetime Value (CLV)
 It is the total revenue your business could expect from a single customer throughout their lifetime (or at least the lifetime of their relationship with your business).
 
 
@@ -71,7 +71,7 @@ It tells you how much it costs, on average, to get a new customer.
 
 **Insight:** You should regularly compare this metric to CLV. They may be close at first to gain market share, but in the long term, CLV should always be much higher than CAC. Comparing these two will show whether your business is sustainable in the long run or not.
 
-## LTV:CAC ratio
+## LTV:CAC Ratio
 Profitability signal: The LTV:CAC ratio compares the lifetime value of a customer to the cost of acquiring that customer, measuring a business's profitability and scalability.
 
 **LTV:CAC = ( CAC / LTV ​)**
