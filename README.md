@@ -27,7 +27,7 @@ as a base dataset, extended with simulated marketing metrics to calculate KPIs s
 - Conversion Rate Trend (daily)
 
 <p align="center">
-  <img src="screenshots/metabase_dashboard.png" width="800" alt="E-commerce Marketing KPIs Dashboard"/>
+  <img src="screenshots/Metabase_dashboard.PNG" width="800" alt="E-commerce Marketing KPIs Dashboard"/>
 </p>
 
 
