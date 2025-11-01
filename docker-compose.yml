@@ -1,0 +1,28 @@
+services:
+  clickhouse:
+    image: clickhouse/clickhouse-server:latest
+    container_name: clickhouse-server
+    ports:
+      - "8123:8123"
+      - "9000:9000"
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+      - ./init_clickhouse.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./init_users.sql:/docker-entrypoint-initdb.d/init_users.sql
+    environment:
+      CLICKHOUSE_DB: ecommerce
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
+
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase
+    ports:
+      - "3000:3000"
+    depends_on:
+      - clickhouse
+    volumes:
+      - metabase_data:/metabase.db
+
+volumes:
+  clickhouse_data:
+  metabase_data:
