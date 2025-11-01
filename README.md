@@ -14,3 +14,20 @@ as a base dataset, extended with simulated marketing metrics to calculate KPIs s
 - AdSpend, Impressions, Clicks, Conversions, Revenue
 - Derived KPIs: CTR, Conversion Rate, CPC, CAC, ROAS
 
+## 📊 Marketing KPI Dashboard (Metabase + ClickHouse)
+
+- Data: `data/marketing_kpis.csv` (simulated marketing metrics over real e-commerce behavior)
+- Database: ClickHouse (Docker)
+- BI: Metabase
+
+**Highlights**
+- ROAS by Campaign
+- CTR by Campaign
+- CAC Trend (daily)
+- Conversion Rate Trend (daily)
+
+<p align="center">
+  <img src="screenshots/metabase_dashboard.png" width="800" alt="E-commerce Marketing KPIs Dashboard"/>
+</p>
+
+
